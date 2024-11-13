@@ -1,5 +1,4 @@
 
-
 ransomware_detection/
 ├── app.py               # Main Flask app
 ├── model_training.py     # Model training and prediction logic
